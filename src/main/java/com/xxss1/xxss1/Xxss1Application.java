@@ -3,6 +3,7 @@ package com.xxss1.xxss1;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
 @SpringBootApplication
 public class Xxss1Application {
 
