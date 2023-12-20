@@ -72,7 +72,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.xxss1.xxss1.Xxss1Application</mainClass>
+                    <mainClass>com.xxss1.xxss1.readshare.Xxss1Application</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>

@@ -1,4 +1,4 @@
-package com.xxss1.xxss1;
+package com.xxss1.xxss1.readshare;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
